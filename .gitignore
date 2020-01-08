@@ -4,3 +4,5 @@ target
 .classpath
 src/main/generated
 dependency-reduced-pom.xml
+.idea
+camel-groovy-raml*.iml
